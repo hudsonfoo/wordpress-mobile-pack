@@ -1,0 +1,9 @@
+{
+  "name": "hudsonfoo/wordpress-mobile-pack",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/hudsonfoo/wordpress-mobile-pack",
+  "keywords": ["plugin","wordpress"],
+  "require": {
+    "composer/installers": "~1.0.6"
+  }
+}
